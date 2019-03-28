@@ -9,11 +9,11 @@ The goal of this laboratory is to practice the design and simulation of business
 You need the following tools to complete this laboratory:
 
 - IBM WebSphere Business Modeler Advanced 7.0
-- Download the [Order.xsd](../files/Order.xsd) file
+- Download the [Order.xsd](../blob/master/files/Order.xsd) file
 
 ## Material to review before the laboratory
 
-- The [introduction about BPMN](../files/01-BPMN.pdf)
+- The [introduction about BPMN](../blob/master/files/01-BPMN.pdf)
 
 ## The example business process
 
@@ -40,7 +40,7 @@ Our example is an order handling process at a webshop. Each order can be fulfill
 - From the menu bar select **File > New Business Modeling Project**
   - The project name can be Webshop, and the business process name Order Handling
 - **Right click** on the project > **Import...**, then choose **Type definition XML Schema (*.xsd)**
-  - Choose the Order.xsd file downloaded from [here](../files/Order.xsd)
+  - Choose the Order.xsd file downloaded from [here](../blob/master/files/Order.xsd)
   - Review the data types found under the namespace www.ibm.com
 
 ### Create new business items
