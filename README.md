@@ -17,9 +17,7 @@ You need the following tools to complete this laboratory:
 
 ## Submitting your solution
 
-Please upload a document containing the specified screenshots showing the solution of the 
-
-[Standalone tasks](#standalone-tasks)
+Please upload a document containing the specified screenshots showing the solution of the [Standalone tasks](#standalone-tasks)
 
 ## The example business process
 
