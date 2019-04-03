@@ -19,7 +19,7 @@ You need the following tools to complete this laboratory:
 
 Please upload a document containing the specified screenshots showing the solution of the 
 
-[Standalone tasks]: #standalone-tasks
+[Standalone tasks](#standalone-tasks)
 
 ## The example business process
 
